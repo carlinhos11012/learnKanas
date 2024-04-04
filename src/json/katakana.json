@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "katakana": "ア",
+    "portugues": "a"
+  },
+  {
+    "id": 1,
+    "katakana": "イ",
+    "portugues": "i"
+  },
+  {
+    "id": 2,
+    "katakana": "ウ",
+    "portugues": "u"
+  },
+  {
+    "id": 3,
+    "katakana": "エ",
+    "portugues": "e"
+  },
+  {
+    "id": 4,
+    "katakana": "オ",
+    "portugues": "o"
+  },
+  {
+    "id": 5,
+    "katakana": "カ",
+    "portugues": "ka"
+  },
+  {
+    "id": 6,
+    "katakana": "キ",
+    "portugues": "ki"
+  },
+  {
+    "id": 7,
+    "katakana": "ク",
+    "portugues": "ku"
+  },
+  {
+    "id": 8,
+    "katakana": "ケ",
+    "portugues": "ke"
+  },
+  {
+    "id": 9,
+    "katakana": "コ",
+    "portugues": "ko"
+  },
+  {
+    "id": 10,
+    "katakana": "サ",
+    "portugues": "sa"
+  },
+  {
+    "id": 11,
+    "katakana": "シ",
+    "portugues": "shi"
+  },
+  {
+    "id": 12,
+    "katakana": "ス",
+    "portugues": "su"
+  },
+  {
+    "id": 13,
+    "katakana": "セ",
+    "portugues": "se"
+  },
+  {
+    "id": 14,
+    "katakana": "ソ",
+    "portugues": "so"
+  },
+  {
+    "id": 15,
+    "katakana": "タ",
+    "portugues": "ta"
+  },
+  {
+    "id": 16,
+    "katakana": "チ",
+    "portugues": "chi"
+  },
+  {
+    "id": 17,
+    "katakana": "ツ",
+    "portugues": "tsu"
+  },
+  {
+    "id": 18,
+    "katakana": "テ",
+    "portugues": "te"
+  },
+  {
+    "id": 19,
+    "katakana": "ト",
+    "portugues": "to"
+  },
+  {
+    "id": 20,
+    "katakana": "ナ",
+    "portugues": "na"
+  },
+  {
+    "id": 21,
+    "katakana": "ニ",
+    "portugues": "ni"
+  },
+  {
+    "id": 22,
+    "katakana": "ヌ",
+    "portugues": "nu"
+  },
+  {
+    "id": 23,
+    "katakana": "ネ",
+    "portugues": "ne"
+  },
+  {
+    "id": 24,
+    "katakana": "ノ",
+    "portugues": "no"
+  },
+  {
+    "id": 25,
+    "katakana": "ハ",
+    "portugues": "ha"
+  },
+  {
+    "id": 26,
+    "katakana": "ヒ",
+    "portugues": "hi"
+  },
+  {
+    "id": 27,
+    "katakana": "フ",
+    "portugues": "fu"
+  },
+  {
+    "id": 28,
+    "katakana": "ヘ",
+    "portugues": "he"
+  },
+  {
+    "id": 29,
+    "katakana": "ホ",
+    "portugues": "ho"
+  },
+  {
+    "id": 30,
+    "katakana": "マ",
+    "portugues": "ma"
+  },
+  {
+    "id": 31,
+    "katakana": "ミ",
+    "portugues": "mi"
+  },
+  {
+    "id": 32,
+    "katakana": "ム",
+    "portugues": "mu"
+  },
+  {
+    "id": 33,
+    "katakana": "メ",
+    "portugues": "me"
+  },
+  {
+    "id": 34,
+    "katakana": "モ",
+    "portugues": "mo"
+  },
+  {
+    "id": 35,
+    "katakana": "ヤ",
+    "portugues": "ya"
+  },
+  {
+    "id": 36,
+    "katakana": "ユ",
+    "portugues": "yu"
+  },
+  {
+    "id": 37,
+    "katakana": "ヨ",
+    "portugues": "yo"
+  },
+  {
+    "id": 38,
+    "katakana": "ラ",
+    "portugues": "ra"
+  },
+  {
+    "id": 39,
+    "katakana": "リ",
+    "portugues": "ri"
+  },
+  {
+    "id": 40,
+    "katakana": "ル",
+    "portugues": "ru"
+  },
+  {
+    "id": 41,
+    "katakana": "レ",
+    "portugues": "re"
+  },
+  {
+    "id": 42,
+    "katakana": "ロ",
+    "portugues": "ro"
+  },
+  {
+    "id": 43,
+    "katakana": "ワ",
+    "portugues": "wa"
+  },
+  {
+    "id": 44,
+    "katakana": "ヲ",
+    "portugues": "wo"
+  },
+  {
+    "id": 45,
+    "katakana": "ン",
+    "portugues": "n"
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "id": 0,
+    "hiragana": "あ",
+    "portugues": "a"
+  },
+  {
+    "id": 1,
+    "hiragana": "い",
+    "portugues": "i"
+  },
+  {
+    "id": 2,
+    "hiragana": "う",
+    "portugues": "u"
+  },
+  {
+    "id": 3,
+    "hiragana": "え",
+    "portugues": "e"
+  },
+  {
+    "id": 4,
+    "hiragana": "お",
+    "portugues": "o"
+  },
+  {
+    "id": 5,
+    "hiragana": "か",
+    "portugues": "ka"
+  },
+  {
+    "id": 6,
+    "hiragana": "き",
+    "portugues": "ki"
+  },
+  {
+    "id": 7,
+    "hiragana": "く",
+    "portugues": "ku"
+  },
+  {
+    "id": 8,
+    "hiragana": "け",
+    "portugues": "ke"
+  },
+  {
+    "id": 9,
+    "hiragana": "こ",
+    "portugues": "ko"
+  },
+  {
+    "id": 10,
+    "hiragana": "が",
+    "portugues": "ga"
+  },
+  {
+    "id": 11,
+    "hiragana": "ぎ",
+    "portugues": "gi"
+  },
+  {
+    "id": 12,
+    "hiragana": "ぐ",
+    "portugues": "gu"
+  },
+  {
+    "id": 13,
+    "hiragana": "げ",
+    "portugues": "ge"
+  },
+  {
+    "id": 14,
+    "hiragana": "ご",
+    "portugues": "go"
+  },
+  {
+    "id": 15,
+    "hiragana": "さ",
+    "portugues": "sa"
+  },
+  {
+    "id": 16,
+    "hiragana": "し",
+    "portugues": "shi"
+  },
+  {
+    "id": 17,
+    "hiragana": "す",
+    "portugues": "su"
+  },
+  {
+    "id": 18,
+    "hiragana": "せ",
+    "portugues": "se"
+  },
+  {
+    "id": 19,
+    "hiragana": "そ",
+    "portugues": "so"
+  },
+  {
+    "id": 20,
+    "hiragana": "ざ",
+    "portugues": "za"
+  },
+  {
+    "id": 21,
+    "hiragana": "じ",
+    "portugues": "ji"
+  },
+  {
+    "id": 22,
+    "hiragana": "ず",
+    "portugues": "zu"
+  },
+  {
+    "id": 23,
+    "hiragana": "ぜ",
+    "portugues": "ze"
+  },
+  {
+    "id": 24,
+    "hiragana": "ぞ",
+    "portugues": "zo"
+  },
+  {
+    "id": 25,
+    "hiragana": "た",
+    "portugues": "ta"
+  },
+  {
+    "id": 26,
+    "hiragana": "ち",
+    "portugues": "chi"
+  },
+  {
+    "id": 27,
+    "hiragana": "つ",
+    "portugues": "tsu"
+  },
+  {
+    "id": 28,
+    "hiragana": "て",
+    "portugues": "te"
+  },
+  {
+    "id": 29,
+    "hiragana": "と",
+    "portugues": "to"
+  },
+  {
+    "id": 30,
+    "hiragana": "だ",
+    "portugues": "da"
+  },
+  {
+    "id": 31,
+    "hiragana": "ぢ",
+    "portugues": "ji"
+  },
+  {
+    "id": 32,
+    "hiragana": "づ",
+    "portugues": "zu"
+  },
+  {
+    "id": 33,
+    "hiragana": "で",
+    "portugues": "de"
+  },
+  {
+    "id": 34,
+    "hiragana": "ど",
+    "portugues": "do"
+  },
+  {
+    "id": 35,
+    "hiragana": "な",
+    "portugues": "na"
+  },
+  {
+    "id": 36,
+    "hiragana": "に",
+    "portugues": "ni"
+  },
+  {
+    "id": 37,
+    "hiragana": "ぬ",
+    "portugues": "nu"
+  },
+  {
+    "id": 38,
+    "hiragana": "ね",
+    "portugues": "ne"
+  },
+  {
+    "id": 39,
+    "hiragana": "の",
+    "portugues": "no"
+  },
+  {
+    "id": 40,
+    "hiragana": "は",
+    "portugues": "ha"
+  },
+  {
+    "id": 41,
+    "hiragana": "ひ",
+    "portugues": "hi"
+  },
+  {
+    "id": 42,
+    "hiragana": "ふ",
+    "portugues": "fu"
+  },
+  {
+    "id": 43,
+    "hiragana": "へ",
+    "portugues": "he"
+  },
+  {
+    "id": 44,
+    "hiragana": "ほ",
+    "portugues": "ho"
+  },
+  {
+    "id": 45,
+    "hiragana": "ば",
+    "portugues": "ba"
+  },
+  {
+    "id": 46,
+    "hiragana": "び",
+    "portugues": "bi"
+  },
+  {
+    "id": 47,
+    "hiragana": "ぶ",
+    "portugues": "bu"
+  },
+  {
+    "id": 48,
+    "hiragana": "べ",
+    "portugues": "be"
+  },
+  {
+    "id": 49,
+    "hiragana": "ぼ",
+    "portugues": "bo"
+  },
+  {
+    "id": 50,
+    "hiragana": "ぱ",
+    "portugues": "pa"
+  },
+  {
+    "id": 51,
+    "hiragana": "ぴ",
+    "portugues": "pi"
+  },
+  {
+    "id": 52,
+    "hiragana": "ぷ",
+    "portugues": "pu"
+  },
+  {
+    "id": 53,
+    "hiragana": "ぺ",
+    "portugues": "pe"
+  },
+  {
+    "id": 54,
+    "hiragana": "ぽ",
+    "portugues": "po"
+  },
+  {
+    "id": 55,
+    "hiragana": "ま",
+    "portugues": "ma"
+  },
+  {
+    "id": 56,
+    "hiragana": "み",
+    "portugues": "mi"
+  },
+  {
+    "id": 57,
+    "hiragana": "む",
+    "portugues": "mu"
+  },
+  {
+    "id": 58,
+    "hiragana": "め",
+    "portugues": "me"
+  },
+  {
+    "id": 59,
+    "hiragana": "も",
+    "portugues": "mo"
+  },
+  {
+    "id": 60,
+    "hiragana": "や",
+    "portugues": "ya"
+  },
+  {
+    "id": 61,
+    "hiragana": "ゆ",
+    "portugues": "yu"
+  },
+  {
+    "id": 62,
+    "hiragana": "よ",
+    "portugues": "yo"
+  },
+  {
+    "id": 63,
+    "hiragana": "ら",
+    "portugues": "ra"
+  },
+  {
+    "id": 64,
+    "hiragana": "り",
+    "portugues": "ri"
+  },
+  {
+    "id": 65,
+    "hiragana": "る",
+    "portugues": "ru"
+  },
+  {
+    "id": 66,
+    "hiragana": "れ",
+    "portugues": "re"
+  },
+  {
+    "id": 67,
+    "hiragana": "ろ",
+    "portugues": "ro"
+  },
+  {
+    "id": 68,
+    "hiragana": "わ",
+    "portugues": "wa"
+  },
+  {
+    "id": 69,
+    "hiragana": "を",
+    "portugues": "wo"
+  },
+  {
+    "id": 70,
+    "hiragana": "ん",
+    "portugues": "n"
+  }
+]
