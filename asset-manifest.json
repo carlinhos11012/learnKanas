@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learnKanas/static/css/main.b02839e8.css",
+    "main.js": "/learnKanas/static/js/main.4d1f0563.js",
+    "index.html": "/learnKanas/index.html",
+    "main.b02839e8.css.map": "/learnKanas/static/css/main.b02839e8.css.map",
+    "main.4d1f0563.js.map": "/learnKanas/static/js/main.4d1f0563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02839e8.css",
+    "static/js/main.4d1f0563.js"
+  ]
+}
