@@ -228,5 +228,130 @@
     "id": 45,
     "katakana": "ン",
     "portugues": "n"
+  },
+  {
+    "id": 46,
+    "katakana": "ガ",
+    "portugues": "ga"
+  },
+  {
+    "id": 47,
+    "katakana": "ギ",
+    "portugues": "gi"
+  },
+  {
+    "id": 48,
+    "katakana": "グ",
+    "portugues": "gu"
+  },
+  {
+    "id": 49,
+    "katakana": "ゲ",
+    "portugues": "ge"
+  },
+  {
+    "id": 50,
+    "katakana": "ゴ",
+    "portugues": "go"
+  },
+  {
+    "id": 51,
+    "katakana": "ザ",
+    "portugues": "za"
+  },
+  {
+    "id": 52,
+    "katakana": "ジ",
+    "portugues": "ji"
+  },
+  {
+    "id": 53,
+    "katakana": "ズ",
+    "portugues": "zu"
+  },
+  {
+    "id": 54,
+    "katakana": "ゼ",
+    "portugues": "ze"
+  },
+  {
+    "id": 55,
+    "katakana": "ゾ",
+    "portugues": "zo"
+  },
+  {
+    "id": 56,
+    "katakana": "ダ",
+    "portugues": "da"
+  },
+  {
+    "id": 57,
+    "katakana": "ヂ",
+    "portugues": "ji"
+  },
+  {
+    "id": 58,
+    "katakana": "ヅ",
+    "portugues": "zu"
+  },
+  {
+    "id": 59,
+    "katakana": "デ",
+    "portugues": "de"
+  },
+  {
+    "id": 60,
+    "katakana": "ド",
+    "portugues": "do"
+  },
+  {
+    "id": 61,
+    "katakana": "バ",
+    "portugues": "ba"
+  },
+  {
+    "id": 62,
+    "katakana": "ビ",
+    "portugues": "bi"
+  },
+  {
+    "id": 63,
+    "katakana": "ブ",
+    "portugues": "bu"
+  },
+  {
+    "id": 64,
+    "katakana": "ベ",
+    "portugues": "be"
+  },
+  {
+    "id": 65,
+    "katakana": "ボ",
+    "portugues": "bo"
+  },
+  {
+    "id": 66,
+    "katakana": "パ",
+    "portugues": "pa"
+  },
+  {
+    "id": 67,
+    "katakana": "ピ",
+    "portugues": "pi"
+  },
+  {
+    "id": 68,
+    "katakana": "プ",
+    "portugues": "pu"
+  },
+  {
+    "id": 69,
+    "katakana": "ペ",
+    "portugues": "pe"
+  },
+  {
+    "id": 70,
+    "katakana": "ポ",
+    "portugues": "po"
   }
 ]

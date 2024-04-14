@@ -1,11 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App from "./App";
+import Hiragana from "./Kanas/Hiragana";
+import Katanana from "./Kanas/Katakana";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <Hiragana /> */}
+    <Katanana />
   </React.StrictMode>
 );
