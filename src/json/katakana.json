@@ -1,357 +1,357 @@
 [
   {
     "id": 0,
-    "katakana": "ア",
+    "kana": "ア",
     "portugues": "a"
   },
   {
     "id": 1,
-    "katakana": "イ",
+    "kana": "イ",
     "portugues": "i"
   },
   {
     "id": 2,
-    "katakana": "ウ",
+    "kana": "ウ",
     "portugues": "u"
   },
   {
     "id": 3,
-    "katakana": "エ",
+    "kana": "エ",
     "portugues": "e"
   },
   {
     "id": 4,
-    "katakana": "オ",
+    "kana": "オ",
     "portugues": "o"
   },
   {
     "id": 5,
-    "katakana": "カ",
+    "kana": "カ",
     "portugues": "ka"
   },
   {
     "id": 6,
-    "katakana": "キ",
+    "kana": "キ",
     "portugues": "ki"
   },
   {
     "id": 7,
-    "katakana": "ク",
+    "kana": "ク",
     "portugues": "ku"
   },
   {
     "id": 8,
-    "katakana": "ケ",
+    "kana": "ケ",
     "portugues": "ke"
   },
   {
     "id": 9,
-    "katakana": "コ",
+    "kana": "コ",
     "portugues": "ko"
   },
   {
     "id": 10,
-    "katakana": "サ",
+    "kana": "サ",
     "portugues": "sa"
   },
   {
     "id": 11,
-    "katakana": "シ",
+    "kana": "シ",
     "portugues": "shi"
   },
   {
     "id": 12,
-    "katakana": "ス",
+    "kana": "ス",
     "portugues": "su"
   },
   {
     "id": 13,
-    "katakana": "セ",
+    "kana": "セ",
     "portugues": "se"
   },
   {
     "id": 14,
-    "katakana": "ソ",
+    "kana": "ソ",
     "portugues": "so"
   },
   {
     "id": 15,
-    "katakana": "タ",
+    "kana": "タ",
     "portugues": "ta"
   },
   {
     "id": 16,
-    "katakana": "チ",
+    "kana": "チ",
     "portugues": "chi"
   },
   {
     "id": 17,
-    "katakana": "ツ",
+    "kana": "ツ",
     "portugues": "tsu"
   },
   {
     "id": 18,
-    "katakana": "テ",
+    "kana": "テ",
     "portugues": "te"
   },
   {
     "id": 19,
-    "katakana": "ト",
+    "kana": "ト",
     "portugues": "to"
   },
   {
     "id": 20,
-    "katakana": "ナ",
+    "kana": "ナ",
     "portugues": "na"
   },
   {
     "id": 21,
-    "katakana": "ニ",
+    "kana": "ニ",
     "portugues": "ni"
   },
   {
     "id": 22,
-    "katakana": "ヌ",
+    "kana": "ヌ",
     "portugues": "nu"
   },
   {
     "id": 23,
-    "katakana": "ネ",
+    "kana": "ネ",
     "portugues": "ne"
   },
   {
     "id": 24,
-    "katakana": "ノ",
+    "kana": "ノ",
     "portugues": "no"
   },
   {
     "id": 25,
-    "katakana": "ハ",
+    "kana": "ハ",
     "portugues": "ha"
   },
   {
     "id": 26,
-    "katakana": "ヒ",
+    "kana": "ヒ",
     "portugues": "hi"
   },
   {
     "id": 27,
-    "katakana": "フ",
+    "kana": "フ",
     "portugues": "fu"
   },
   {
     "id": 28,
-    "katakana": "ヘ",
+    "kana": "ヘ",
     "portugues": "he"
   },
   {
     "id": 29,
-    "katakana": "ホ",
+    "kana": "ホ",
     "portugues": "ho"
   },
   {
     "id": 30,
-    "katakana": "マ",
+    "kana": "マ",
     "portugues": "ma"
   },
   {
     "id": 31,
-    "katakana": "ミ",
+    "kana": "ミ",
     "portugues": "mi"
   },
   {
     "id": 32,
-    "katakana": "ム",
+    "kana": "ム",
     "portugues": "mu"
   },
   {
     "id": 33,
-    "katakana": "メ",
+    "kana": "メ",
     "portugues": "me"
   },
   {
     "id": 34,
-    "katakana": "モ",
+    "kana": "モ",
     "portugues": "mo"
   },
   {
     "id": 35,
-    "katakana": "ヤ",
+    "kana": "ヤ",
     "portugues": "ya"
   },
   {
     "id": 36,
-    "katakana": "ユ",
+    "kana": "ユ",
     "portugues": "yu"
   },
   {
     "id": 37,
-    "katakana": "ヨ",
+    "kana": "ヨ",
     "portugues": "yo"
   },
   {
     "id": 38,
-    "katakana": "ラ",
+    "kana": "ラ",
     "portugues": "ra"
   },
   {
     "id": 39,
-    "katakana": "リ",
+    "kana": "リ",
     "portugues": "ri"
   },
   {
     "id": 40,
-    "katakana": "ル",
+    "kana": "ル",
     "portugues": "ru"
   },
   {
     "id": 41,
-    "katakana": "レ",
+    "kana": "レ",
     "portugues": "re"
   },
   {
     "id": 42,
-    "katakana": "ロ",
+    "kana": "ロ",
     "portugues": "ro"
   },
   {
     "id": 43,
-    "katakana": "ワ",
+    "kana": "ワ",
     "portugues": "wa"
   },
   {
     "id": 44,
-    "katakana": "ヲ",
+    "kana": "ヲ",
     "portugues": "wo"
   },
   {
     "id": 45,
-    "katakana": "ン",
+    "kana": "ン",
     "portugues": "n"
   },
   {
     "id": 46,
-    "katakana": "ガ",
+    "kana": "ガ",
     "portugues": "ga"
   },
   {
     "id": 47,
-    "katakana": "ギ",
+    "kana": "ギ",
     "portugues": "gi"
   },
   {
     "id": 48,
-    "katakana": "グ",
+    "kana": "グ",
     "portugues": "gu"
   },
   {
     "id": 49,
-    "katakana": "ゲ",
+    "kana": "ゲ",
     "portugues": "ge"
   },
   {
     "id": 50,
-    "katakana": "ゴ",
+    "kana": "ゴ",
     "portugues": "go"
   },
   {
     "id": 51,
-    "katakana": "ザ",
+    "kana": "ザ",
     "portugues": "za"
   },
   {
     "id": 52,
-    "katakana": "ジ",
+    "kana": "ジ",
     "portugues": "ji"
   },
   {
     "id": 53,
-    "katakana": "ズ",
+    "kana": "ズ",
     "portugues": "zu"
   },
   {
     "id": 54,
-    "katakana": "ゼ",
+    "kana": "ゼ",
     "portugues": "ze"
   },
   {
     "id": 55,
-    "katakana": "ゾ",
+    "kana": "ゾ",
     "portugues": "zo"
   },
   {
     "id": 56,
-    "katakana": "ダ",
+    "kana": "ダ",
     "portugues": "da"
   },
   {
     "id": 57,
-    "katakana": "ヂ",
+    "kana": "ヂ",
     "portugues": "ji"
   },
   {
     "id": 58,
-    "katakana": "ヅ",
+    "kana": "ヅ",
     "portugues": "zu"
   },
   {
     "id": 59,
-    "katakana": "デ",
+    "kana": "デ",
     "portugues": "de"
   },
   {
     "id": 60,
-    "katakana": "ド",
+    "kana": "ド",
     "portugues": "do"
   },
   {
     "id": 61,
-    "katakana": "バ",
+    "kana": "バ",
     "portugues": "ba"
   },
   {
     "id": 62,
-    "katakana": "ビ",
+    "kana": "ビ",
     "portugues": "bi"
   },
   {
     "id": 63,
-    "katakana": "ブ",
+    "kana": "ブ",
     "portugues": "bu"
   },
   {
     "id": 64,
-    "katakana": "ベ",
+    "kana": "ベ",
     "portugues": "be"
   },
   {
     "id": 65,
-    "katakana": "ボ",
+    "kana": "ボ",
     "portugues": "bo"
   },
   {
     "id": 66,
-    "katakana": "パ",
+    "kana": "パ",
     "portugues": "pa"
   },
   {
     "id": 67,
-    "katakana": "ピ",
+    "kana": "ピ",
     "portugues": "pi"
   },
   {
     "id": 68,
-    "katakana": "プ",
+    "kana": "プ",
     "portugues": "pu"
   },
   {
     "id": 69,
-    "katakana": "ペ",
+    "kana": "ペ",
     "portugues": "pe"
   },
   {
     "id": 70,
-    "katakana": "ポ",
+    "kana": "ポ",
     "portugues": "po"
   }
 ]

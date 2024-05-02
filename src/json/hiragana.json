@@ -1,357 +1,357 @@
 [
   {
     "id": 0,
-    "hiragana": "あ",
+    "kana": "あ",
     "portugues": "a"
   },
   {
     "id": 1,
-    "hiragana": "い",
+    "kana": "い",
     "portugues": "i"
   },
   {
     "id": 2,
-    "hiragana": "う",
+    "kana": "う",
     "portugues": "u"
   },
   {
     "id": 3,
-    "hiragana": "え",
+    "kana": "え",
     "portugues": "e"
   },
   {
     "id": 4,
-    "hiragana": "お",
+    "kana": "お",
     "portugues": "o"
   },
   {
     "id": 5,
-    "hiragana": "か",
+    "kana": "か",
     "portugues": "ka"
   },
   {
     "id": 6,
-    "hiragana": "き",
+    "kana": "き",
     "portugues": "ki"
   },
   {
     "id": 7,
-    "hiragana": "く",
+    "kana": "く",
     "portugues": "ku"
   },
   {
     "id": 8,
-    "hiragana": "け",
+    "kana": "け",
     "portugues": "ke"
   },
   {
     "id": 9,
-    "hiragana": "こ",
+    "kana": "こ",
     "portugues": "ko"
   },
   {
     "id": 10,
-    "hiragana": "が",
+    "kana": "が",
     "portugues": "ga"
   },
   {
     "id": 11,
-    "hiragana": "ぎ",
+    "kana": "ぎ",
     "portugues": "gi"
   },
   {
     "id": 12,
-    "hiragana": "ぐ",
+    "kana": "ぐ",
     "portugues": "gu"
   },
   {
     "id": 13,
-    "hiragana": "げ",
+    "kana": "げ",
     "portugues": "ge"
   },
   {
     "id": 14,
-    "hiragana": "ご",
+    "kana": "ご",
     "portugues": "go"
   },
   {
     "id": 15,
-    "hiragana": "さ",
+    "kana": "さ",
     "portugues": "sa"
   },
   {
     "id": 16,
-    "hiragana": "し",
+    "kana": "し",
     "portugues": "shi"
   },
   {
     "id": 17,
-    "hiragana": "す",
+    "kana": "す",
     "portugues": "su"
   },
   {
     "id": 18,
-    "hiragana": "せ",
+    "kana": "せ",
     "portugues": "se"
   },
   {
     "id": 19,
-    "hiragana": "そ",
+    "kana": "そ",
     "portugues": "so"
   },
   {
     "id": 20,
-    "hiragana": "ざ",
+    "kana": "ざ",
     "portugues": "za"
   },
   {
     "id": 21,
-    "hiragana": "じ",
+    "kana": "じ",
     "portugues": "ji"
   },
   {
     "id": 22,
-    "hiragana": "ず",
+    "kana": "ず",
     "portugues": "zu"
   },
   {
     "id": 23,
-    "hiragana": "ぜ",
+    "kana": "ぜ",
     "portugues": "ze"
   },
   {
     "id": 24,
-    "hiragana": "ぞ",
+    "kana": "ぞ",
     "portugues": "zo"
   },
   {
     "id": 25,
-    "hiragana": "た",
+    "kana": "た",
     "portugues": "ta"
   },
   {
     "id": 26,
-    "hiragana": "ち",
+    "kana": "ち",
     "portugues": "chi"
   },
   {
     "id": 27,
-    "hiragana": "つ",
+    "kana": "つ",
     "portugues": "tsu"
   },
   {
     "id": 28,
-    "hiragana": "て",
+    "kana": "て",
     "portugues": "te"
   },
   {
     "id": 29,
-    "hiragana": "と",
+    "kana": "と",
     "portugues": "to"
   },
   {
     "id": 30,
-    "hiragana": "だ",
+    "kana": "だ",
     "portugues": "da"
   },
   {
     "id": 31,
-    "hiragana": "ぢ",
+    "kana": "ぢ",
     "portugues": "ji"
   },
   {
     "id": 32,
-    "hiragana": "づ",
+    "kana": "づ",
     "portugues": "zu"
   },
   {
     "id": 33,
-    "hiragana": "で",
+    "kana": "で",
     "portugues": "de"
   },
   {
     "id": 34,
-    "hiragana": "ど",
+    "kana": "ど",
     "portugues": "do"
   },
   {
     "id": 35,
-    "hiragana": "な",
+    "kana": "な",
     "portugues": "na"
   },
   {
     "id": 36,
-    "hiragana": "に",
+    "kana": "に",
     "portugues": "ni"
   },
   {
     "id": 37,
-    "hiragana": "ぬ",
+    "kana": "ぬ",
     "portugues": "nu"
   },
   {
     "id": 38,
-    "hiragana": "ね",
+    "kana": "ね",
     "portugues": "ne"
   },
   {
     "id": 39,
-    "hiragana": "の",
+    "kana": "の",
     "portugues": "no"
   },
   {
     "id": 40,
-    "hiragana": "は",
+    "kana": "は",
     "portugues": "ha"
   },
   {
     "id": 41,
-    "hiragana": "ひ",
+    "kana": "ひ",
     "portugues": "hi"
   },
   {
     "id": 42,
-    "hiragana": "ふ",
+    "kana": "ふ",
     "portugues": "fu"
   },
   {
     "id": 43,
-    "hiragana": "へ",
+    "kana": "へ",
     "portugues": "he"
   },
   {
     "id": 44,
-    "hiragana": "ほ",
+    "kana": "ほ",
     "portugues": "ho"
   },
   {
     "id": 45,
-    "hiragana": "ば",
+    "kana": "ば",
     "portugues": "ba"
   },
   {
     "id": 46,
-    "hiragana": "び",
+    "kana": "び",
     "portugues": "bi"
   },
   {
     "id": 47,
-    "hiragana": "ぶ",
+    "kana": "ぶ",
     "portugues": "bu"
   },
   {
     "id": 48,
-    "hiragana": "べ",
+    "kana": "べ",
     "portugues": "be"
   },
   {
     "id": 49,
-    "hiragana": "ぼ",
+    "kana": "ぼ",
     "portugues": "bo"
   },
   {
     "id": 50,
-    "hiragana": "ぱ",
+    "kana": "ぱ",
     "portugues": "pa"
   },
   {
     "id": 51,
-    "hiragana": "ぴ",
+    "kana": "ぴ",
     "portugues": "pi"
   },
   {
     "id": 52,
-    "hiragana": "ぷ",
+    "kana": "ぷ",
     "portugues": "pu"
   },
   {
     "id": 53,
-    "hiragana": "ぺ",
+    "kana": "ぺ",
     "portugues": "pe"
   },
   {
     "id": 54,
-    "hiragana": "ぽ",
+    "kana": "ぽ",
     "portugues": "po"
   },
   {
     "id": 55,
-    "hiragana": "ま",
+    "kana": "ま",
     "portugues": "ma"
   },
   {
     "id": 56,
-    "hiragana": "み",
+    "kana": "み",
     "portugues": "mi"
   },
   {
     "id": 57,
-    "hiragana": "む",
+    "kana": "む",
     "portugues": "mu"
   },
   {
     "id": 58,
-    "hiragana": "め",
+    "kana": "め",
     "portugues": "me"
   },
   {
     "id": 59,
-    "hiragana": "も",
+    "kana": "も",
     "portugues": "mo"
   },
   {
     "id": 60,
-    "hiragana": "や",
+    "kana": "や",
     "portugues": "ya"
   },
   {
     "id": 61,
-    "hiragana": "ゆ",
+    "kana": "ゆ",
     "portugues": "yu"
   },
   {
     "id": 62,
-    "hiragana": "よ",
+    "kana": "よ",
     "portugues": "yo"
   },
   {
     "id": 63,
-    "hiragana": "ら",
+    "kana": "ら",
     "portugues": "ra"
   },
   {
     "id": 64,
-    "hiragana": "り",
+    "kana": "り",
     "portugues": "ri"
   },
   {
     "id": 65,
-    "hiragana": "る",
+    "kana": "る",
     "portugues": "ru"
   },
   {
     "id": 66,
-    "hiragana": "れ",
+    "kana": "れ",
     "portugues": "re"
   },
   {
     "id": 67,
-    "hiragana": "ろ",
+    "kana": "ろ",
     "portugues": "ro"
   },
   {
     "id": 68,
-    "hiragana": "わ",
+    "kana": "わ",
     "portugues": "wa"
   },
   {
     "id": 69,
-    "hiragana": "を",
+    "kana": "を",
     "portugues": "wo"
   },
   {
     "id": 70,
-    "hiragana": "ん",
+    "kana": "ん",
     "portugues": "n"
   }
 ]
