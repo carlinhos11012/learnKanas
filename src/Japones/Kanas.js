@@ -3,33 +3,32 @@ import katakanas from "../json/katakana.json";
 import hiragana from "../json/hiragana.json";
 
 function Kanas() {
-  const listaNumeros = [1, 2, 3];
-  const [erro, setErro] = useState(false);
-  const [lista, setLista] = useState([]);
-  const [resposta, setResposta] = useState("");
+  const numberList = [1, 2, 3];
+  const [error, setError] = useState(false);
+  const [list, setList] = useState([]);
+  const [correct, setCorrect] = useState("");
   const [inputValue, setInputValue] = useState("");
-  const [numero, setNumero] = useState(1);
+  const [number, setNumber] = useState(1);
   const [kana, setKana] = useState(true);
 
-  let gerarLista = (numero) => {
-    let updateLista = [];
-    let updateResposta = "";
+  let generateList = (number) => {
+    let updatelist = [];
+    let updateCorrect = "";
     if (kana) {
-      for (let i = 0; i < numero; i++) {
-        updateLista[i] = hiragana[Math.floor(Math.random() * hiragana.length)];
-        updateResposta += updateLista[i].portugues;
+      for (let i = 0; i < number; i++) {
+        updatelist[i] = hiragana[Math.floor(Math.random() * hiragana.length)];
+        updateCorrect += updatelist[i].portuguese;
       }
     } else {
-      for (let i = 0; i < numero; i++) {
-        updateLista[i] =
-          katakanas[Math.floor(Math.random() * katakanas.length)];
-        updateResposta += updateLista[i].portugues;
+      for (let i = 0; i < number; i++) {
+        updatelist[i] = katakanas[Math.floor(Math.random() * katakanas.length)];
+        updateCorrect += updatelist[i].portuguese;
       }
     }
-    setLista(updateLista);
-    setResposta(updateResposta);
+    setList(updatelist);
+    setCorrect(updateCorrect);
 
-    return updateLista;
+    return updatelist;
   };
 
   let handleInputChange = (e) => {
@@ -41,28 +40,29 @@ function Kanas() {
   };
 
   let handleNumberChange = (e) => {
-    setErro(false);
+    setError(false);
     setInputValue("");
-    return setNumero(e);
+    return setNumber(e);
   };
 
   let handleSubmit = (e) => {
     if (e.key === "Enter") {
-      if (inputValue.toLowerCase() === resposta) {
-        gerarLista(numero);
+      if (inputValue.toLowerCase() === correct) {
+        generateList(number);
         setInputValue("");
-        setErro(false);
+        setError(false);
       } else {
-        setErro(true);
+        setError(true);
       }
     }
   };
   useEffect(() => {
-    gerarLista(numero);
-  }, [kana, numero]);
+    generateList(number);
+  }, [kana, number]);
 
   return (
     <div className="flex flex-col justify-center items-center h-screen bg-gray-400">
+      <div>{kana ? "hiragana" : "katakana"}</div>
       <div
         className="rounded-xl bg-white py-1 px-10 mb-3 hover:cursor-pointer"
         onClick={handleKanaChange}
@@ -71,11 +71,11 @@ function Kanas() {
       </div>
       <div className="flex flex-row justify-center w-[550px] items-center bg-white h-1/2 text-9xl rounded-lg border-4 border-black px-6">
         <div className="flex flex-row">
-          {lista.map((x) => {
+          {list.map((x) => {
             return (
               <div className="flex flex-col items-center">
-                <div className={`text-2xl ${erro ? "visible" : "invisible"}`}>
-                  {x.portugues}
+                <div className={`text-2xl ${error ? "visible" : "invisible"}`}>
+                  {x.portuguese}
                 </div>
                 <div>{x.kana}</div>
               </div>
@@ -84,12 +84,12 @@ function Kanas() {
         </div>
       </div>
       <div className="flex flex-row justify-center items-center mt-5 w-80">
-        {listaNumeros.map((e) => {
+        {numberList.map((e) => {
           return (
             <div className="numbers">
               <div
                 className={`opcao ${
-                  numero === e ? "bg-gray-600 text-white" : ""
+                  number === e ? "bg-gray-600 text-white" : ""
                 }`}
                 onClick={() => {
                   handleNumberChange(e);
@@ -103,11 +103,11 @@ function Kanas() {
       </div>
       <input
         className={`mt-5 w-80 h-14 p-4 outline-none ${
-          erro ? "border-red-500 border-4" : ""
+          error ? "border-red-500 border-4" : ""
         }`}
         id="input"
         value={inputValue}
-        placeholder="Resposta"
+        placeholder="correct"
         onKeyDown={handleSubmit}
         onChange={handleInputChange}
       ></input>
